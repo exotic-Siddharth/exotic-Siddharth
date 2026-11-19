@@ -12,6 +12,7 @@ I like building two kinds of things:
 
 <p align="center">
   <a href="https://exotic-siddharth.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:siddhkr8987@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/exotic-Siddharth/leetcode-solutions"><img src="https://img.shields.io/badge/LeetCode-360%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
