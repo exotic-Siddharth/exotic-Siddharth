@@ -25,7 +25,7 @@ I'm an **aspiring ML engineer** focused on **NLP and search**:
 
 | Project | What it is | Built with |
 |---|---|---|
-| **[Hinglish Product Search](https://github.com/exotic-Siddharth/hinglish-product-search)** | Product search for Hinglish queries (*"bachon ke liye pani wali botal"*) over 181K Amazon products. Compared 13 retrieval setups; a Hindi-to-English rewrite + BM25/dense fusion raised Hinglish nDCG@10 from **0.185 to 0.389**. | Python, PyTorch, Sentence Transformers, BM25, Cross-Encoders, FastAPI |
+| **[Hinglish Product Search](https://github.com/exotic-Siddharth/hinglish-product-search)** | Product search for Hinglish queries (*"bachon ke liye pani wali botal"*) over 181K Amazon products. Compared 13 retrieval setups; a Hindi-to-English rewrite + BM25/dense fusion raised Hinglish nDCG@10 from **0.185 to 0.389**. Try it in your browser: **[Live demo](https://exotic-siddharth.github.io/hinglish-search/)** | Python, PyTorch, Sentence Transformers, BM25, Cross-Encoders, FastAPI |
 | **[rag-eval-lab](https://github.com/exotic-Siddharth/rag-eval-lab)** | RAG question answering built around its evaluation harness. Best pipeline: hybrid BM25 + dense with reranking, **Recall@1 0.90, nDCG@10 0.95**, plus prompt-injection and grounding guardrails. The demo runs entirely in your browser. **[Live demo](https://exotic-siddharth.github.io/rag-eval-lab/)** | Python, RAG, Sentence Transformers, transformers.js, Qwen3, FastAPI, Docker |
 | **[Fake News Detection](https://github.com/exotic-Siddharth/Fake-News-Detection-System)** | TF-IDF + Logistic Regression classifier, **0.98 accuracy** on 44,898 articles; shows which words pushed each prediction. **[Live demo](https://exotic-siddharth.github.io/fake-news/)** | Python, scikit-learn, Streamlit |
 
